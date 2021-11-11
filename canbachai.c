@@ -1,6 +1,7 @@
 float tinhCanBacHai(float a, float b, float c)
 {
     float delta, x1, x2, x;
+    int a,b,c;
 
     if (a == 0)
     {
